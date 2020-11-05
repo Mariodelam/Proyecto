@@ -1,0 +1,27 @@
+#contenedor{width:1000px; display:block; margin-left: auto; margin-right: auto; background-color:#756D6B;}
+header{font-family:Arial Black;font-size:40px;text-align:center;}
+.subtitulo{font-family:Arial;font-size:20px;text-align:center;}
+p{font-family:Arial;font-size:16px;}
+img{width:143px; height:80px;}
+.img{width:500px; height:400px;display:block; margin-right: auto; margin-left: auto;}
+nav{width: 1400px;height:100px;}
+.infografia{width:700px; height:1800px;display:block; margin-right: auto; margin-left: auto;}
+footer{text-align:center;}
+.historieta{width:800px; height:300px;display:block; margin-right: auto; margin-left: auto;}
+.graficas{width:850px; height:450px;display:block; margin-right: auto; margin-left: auto;}
+.resumen{width:600px; height:700px;display:block; margin-right: auto; margin-left: auto;}
+.equidad{width:400px; height:400px;display:block; margin-right: auto; margin-left: auto;}
+.izquierda{float:left;}
+.video{width:500px; height:500px;display:block; margin-right: auto; margin-left: auto;}
+.deportes{width:650px; height:700px;display:block; margin-right: auto; margin-left: auto;}
+.graficas2{width:850px; height:250px;display:block; margin-right: auto; margin-left: auto;}
+.comentario{width:700px; height:900px;display:block; margin-right: auto; margin-left: auto;}
+.fce{width:600px; height:300px;display:block; margin-right: auto; margin-left: auto;}
+.p{color:#FFFFFF;}
+
+
+
+
+
+
+
